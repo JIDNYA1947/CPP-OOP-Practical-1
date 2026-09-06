@@ -1,0 +1,41 @@
+# C++ OOP Practical - Sample Output
+
+## TEST CASE 1
+
+**Input:**
+
+* Order Number = 101
+* Item Name = Pizza
+* Price = 200
+* Quantity = 2
+* New Quantity = 3
+
+**Expected/Actual Final Bill = Rs. 600**
+
+---
+
+## TEST CASE 2
+
+**Input:**
+
+* Order Number = 102
+* Item Name = Burger
+* Price = 150
+* Quantity = 2
+* New Quantity = 4
+
+**Expected/Actual Final Bill = Rs. 600**
+
+---
+
+## TEST CASE 3
+
+**Input:**
+
+* Order Number = 103
+* Item Name = Sandwich
+* Price = 80
+* Quantity = 3
+* New Quantity = 5
+
+**Expected/Actual Final Bill = Rs. 400**
